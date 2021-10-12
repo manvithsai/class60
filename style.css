@@ -1,0 +1,17 @@
+body{
+text-align: center;
+background-color: chartreuse;
+}
+#apps{
+width: 100%;
+height: 800px
+}
+.line{
+ height:5px;
+width:70px;
+background-color:black;
+margin: 8px auto;
+}
+img:hover{
+transform: scale(0.9)
+}
